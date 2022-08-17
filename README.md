@@ -2,8 +2,8 @@
 
 # Set up a "Hello Microverse" project
 
-> Description 0f the project.
-In this project, you will set up a "Hello world" repository
+## Description 0f the project.
+In this project, i have set up a "Hello world" repository.My goal here is to master all of the tools and best practices GitHub flow,linters. I have to be familiar with them since i will be using them in all Microverse projects and most likely in my future job as well, so it is important to know them!
 
 
 ## Built With
@@ -11,8 +11,6 @@ In this project, you will set up a "Hello world" repository
 - CSS
 - linter for HTML and CSS
 - Node Page modules(NPM)
-
-To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
